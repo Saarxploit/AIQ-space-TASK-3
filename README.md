@@ -82,6 +82,8 @@ Monitoring → NIDS + Firewall watch for anomalies.
 
 Admin control → Central panel manages policies & sessions.
 
+VLAN - using VLAN we can segregate admin pc from family LAN 
+
 
 
 🔧 Future Improvements
